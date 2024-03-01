@@ -1,0 +1,33 @@
+.about-me-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-container {
+  margin-right: 20px;
+}
+
+.profile-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.name {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.bio {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.contact-info {
+  font-size: 16px;
+}
+
+.contact-info p {
+  margin-bottom: 5px;
+}
